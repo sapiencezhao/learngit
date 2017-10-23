@@ -12,3 +12,4 @@ void printPrime(int n){//判断n是否是质数
                 System.out.println();
         }
 }
+new num gain again
